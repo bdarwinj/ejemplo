@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 darwin jose
 alberto
+=======
+darwin jose
+>>>>>>> 7b0ffd1b544d8471167b60c27255fd90c824149b
